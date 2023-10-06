@@ -1,1 +1,1 @@
-# ethan-portfolio-starter
+# Nextjs website 2
